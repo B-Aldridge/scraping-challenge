@@ -1,8 +1,8 @@
 # scraping-challenge
 
-This challenge explores information about Mars using a provided dataset by the Bootcamp. The dataset includes daily measurements of parameters such as terrestrial date, sol, ls, month, minimum temperature, and pressure.
+This challenge explores information about Mars using a provided dataset and starter code by the Bootcamp . The dataset includes daily measurements of parameters such as terrestrial date, sol, ls, month, minimum temperature, and pressure.
 
-Part_1.ipynb:
+# Part_1.ipynb:
 
   •Uses automated browsing to scrape and extract elements from the Mars News website using Beautiful Soup.
 
@@ -13,7 +13,7 @@ Part_1.ipynb:
   •Prints the scraped data to confirm.
 
 
-Part_2.ipynb:
+# Part_2.ipynb:
 
   •Continues the assignment by analyzing relevant sections.
 
